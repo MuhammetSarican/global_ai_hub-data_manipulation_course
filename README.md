@@ -1,0 +1,2 @@
+# global_ai_hub-data_manipulation_course
+personal_exercise
